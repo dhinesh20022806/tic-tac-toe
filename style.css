@@ -29,7 +29,9 @@ img{
     
 }
 .items{
-    padding: 50px;
+    display: grid;
+    place-items: center;
+    /* padding: 50px; */
     border-bottom: 5px solid white;
     border-right: 5px solid  whitesmoke;
 }
